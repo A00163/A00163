@@ -5,8 +5,19 @@
 ---
 
 ## 🔍 About Me
-- 🌱 Currently exploring **Deep Learning** and **Computational Neuroscience**  
-- 🧠 Familiar with **Convolutional Neural Networks (CNNs)**  
+- 🌱 Currently learning and exploring **Deep Learning** and **Computational Neuroscience**  
+- 🧠 Experienced with **CNNs**, and have basic knowledge of **NLP** and **Machine Learning**, eager to dive deeper into AI research.
+- 💡 Passionate about leveraging AI for real-world applications, especially in brain-inspired computing.
+- 📫 How to reach me: Feel free to connect with me through email: [atefehalimohammadi00163@gmail.com](mailto:atefehalimohammadi00163@gmail.com)
+
+---
+
+## 📱 Social media:
+<p align="left">
+  <a href="https://www.linkedin.com/in/atefe-alimohammadi-1798b2237" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png?20210220164014" alt="LinkedIn" width="40" />
+  </a>
+</p>
 
 ---
 
